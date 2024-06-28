@@ -55,7 +55,7 @@
 <details>
 <summary>김효연 : </summary>
 <div markdown="1">
-
+240628 : "noticeboard" 새로운 도메인 추가
 
 </div>
 </details>
