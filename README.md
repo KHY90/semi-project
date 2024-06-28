@@ -55,6 +55,7 @@
 <details>
 <summary>김효연 : </summary>
 <div markdown="1">
+240628 :  전체게시판 새로운 도메인 미 완성본 추가 
 
 
 </div>
