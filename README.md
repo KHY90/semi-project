@@ -23,11 +23,11 @@
 
 
 6. 진행 상황
-<summary>김화연 : </summary>
-<summary>홍서우 : </summary>
-<summary>목진희 : </summary>
-<summary>신주연 : </summary>
-<summary>김효연 : </summary>
-<summary>김재석 : </summary>
-<summary>김준성 : </summary>
+<details>김화연 : </details>
+<details>홍서우 : </details>
+<details>목진희 : </details>
+<details>신주연 : </details>
+<details>김효연 : </details>
+<details>김재석 : </details>
+<details>김준성 : </details>
 
