@@ -25,7 +25,7 @@
 6. 진행 상황
 
 <details>
-<summary>김화연 : /summary>
+<summary>김화연 : </summary>
 <div markdown="1">
 
   
@@ -33,42 +33,42 @@
 </div>
 </details>
 <details>
-<summary>홍서우 : /summary>
+<summary>홍서우 : </summary>
 <div markdown="1">
 
 
 </div>
 </details>
 <details>
-<summary>목진희 : /summary>
+<summary>목진희 : </summary>
 <div markdown="1">
 
 
 </div>
 </details>
 <details>
-<summary>신주연 : /summary>
+<summary>신주연 : </summary>
 <div markdown="1">
 
 
 </div>
 </details>
 <details>
-<summary>김효연 : /summary>
+<summary>김효연 : </summary>
 <div markdown="1">
 
 
 </div>
 </details>
 <details>
-<summary>김재석 : /summary>
+<summary>김재석 : </summary>
 <div markdown="1">
 
 
 </div>
 </details>
 <details>
-<summary>김준성 : /summary>
+<summary>김준성 : </summary>
 <div markdown="1">
 
 
