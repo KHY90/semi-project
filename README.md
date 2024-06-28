@@ -23,11 +23,54 @@
 
 
 6. 진행 상황
-<details>김화연 : </details>
-<details>홍서우 : </details>
-<details>목진희 : </details>
-<details>신주연 : </details>
-<details>김효연 : </details>
-<details>김재석 : </details>
-<details>김준성 : </details>
 
+<details>
+<summary>김화연 : /summary>
+<div markdown="1">
+
+  
+
+</div>
+</details>
+<details>
+<summary>홍서우 : /summary>
+<div markdown="1">
+
+
+</div>
+</details>
+<details>
+<summary>목진희 : /summary>
+<div markdown="1">
+
+
+</div>
+</details>
+<details>
+<summary>신주연 : /summary>
+<div markdown="1">
+
+
+</div>
+</details>
+<details>
+<summary>김효연 : /summary>
+<div markdown="1">
+
+
+</div>
+</details>
+<details>
+<summary>김재석 : /summary>
+<div markdown="1">
+
+
+</div>
+</details>
+<details>
+<summary>김준성 : /summary>
+<div markdown="1">
+
+
+</div>
+</details>
