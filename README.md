@@ -7,7 +7,7 @@
 
 2. 사용 기술
 
-스프링부트
+스프링부트, JPA
 
 3. 객체-관계 모델 - ERD
 
@@ -28,7 +28,7 @@
 <summary>김화연 : </summary>
 <div markdown="1">
 
-  
+  0630 : fragments 정리 / sub-plan 페이지 html 작성 / 
 
 </div>
 </details>

@@ -1,15 +1,20 @@
-package com.ohgiraffers.blog;
+package com.ohgiraffers.blog.controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestParam;
-import org.springframework.web.servlet.mvc.support.RedirectAttributes;
 import org.springframework.web.bind.support.SessionStatus;
+import org.springframework.web.servlet.mvc.support.RedirectAttributes;
 
 @Controller
-public class WebController {
+public class MainController {
+
+    @GetMapping("/")
+    public String index() {
+        return "index";
+    }
 
     // 로그인 페이지로 이동
     @GetMapping("/menu-login")
@@ -66,6 +71,5 @@ public class WebController {
         attributes.addFlashAttribute("signupSuccess", true);
         return "redirect:menu-login"; // 로그인 페이지로 리다이렉트
     }
-
 
 }
