@@ -69,7 +69,7 @@
 <details>
 <summary>김준성 : </summary>
 <div markdown="1">
-
+0630 : share-post.html 페이지 Thymeleaf사용해서 컨트롤러에서 데이터 가져오도록 수정 (틀린거 많을 수도 이쑴,,)
 
 </div>
 </details>
